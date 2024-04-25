@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Semantic HTML Example</title>
+</head>
+<body>
+  <header>
+    <h1>My Awesome Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Introduction</h2>
+      <p>This is a paragraph introducing the website's content.</p>
+    </section>
+    <section>
+      <h2>Features</h2>
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+        <li>Feature 3</li>
+      </ul>
+    </section>
+    <article>
+      <h3>Blog Post Title</h3>
+      <p>This is a sample blog post content.</p>
+      <figure>
+        <img src="image.jpg" alt="Blog Post Image">
+        <figcaption>Image caption describing the image content.</figcaption>
+      </figure>
+    </article>
+  </main>
+  <aside>
+    <h2>Sidebar Content</h2>
+    <p>This is some additional information displayed in the sidebar.</p>
+  </aside>
+  <footer>
+    <p>&copy; 2024 My Website</p>
+  </footer>
+</body>
+</html>
